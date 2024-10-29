@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "Demo.Controllers.ProductController",
+    "Method": "GetProducts",
+    "RelativePath": "Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "api/v1/products"
+  }
+]
